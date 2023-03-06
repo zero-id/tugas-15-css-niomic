@@ -1,0 +1,54 @@
+.box1 {
+    background-color:aquamarine ;
+}
+.box2 {
+    background-color:greenyellow ;
+    align-self: flex-start;
+}
+.box3 {
+    background-color:skyblue ;
+}
+.box4 {
+    background-color:blueviolet ;
+    align-self: flex-start;
+}
+.box5 {
+    background-color:black ;
+}
+.box6 {
+    background-color:goldenrod ;
+    align-self: flex-start;
+}
+.box7 {
+    background-color:orange ;
+}
+.box8 {
+    background-color:red ;
+    align-self: flex-start;
+}
+.box9 {
+    background-color:gainsboro ;
+}
+.box10 {
+    background-color:gray ;
+    align-self: flex-start;
+}
+
+
+.container {
+    height: 100px;
+    display: flex;
+    background-color: ghostwhite;
+    align-items: center;
+}
+
+
+
+
+.box {
+    width: 10%;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+
